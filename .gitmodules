@@ -1,0 +1,6 @@
+[submodule "mpiBWA"]
+	path = mpiBWA
+	url = https://github.com/fredjarlier/mpiBWA.git
+[submodule "mpiSORT"]
+	path = mpiSORT
+	url = https://github.com/fredjarlier/mpiSORT.git
