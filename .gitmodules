@@ -1,6 +1,6 @@
 [submodule "mpiBWA"]
 	path = QUASART-mpiBWA
-	url = https://github.com/fredjarlier/mpiBWA.git
+	url = https://github.com/fredjarlier/mpiBWA/.git
 [submodule "mpiSORT"]
 	path = QUASART-mpiSORT
-	url = https://github.com/fredjarlier/mpiSORT.git
+	url = https://github.com/fredjarlier/mpiSORT/.git
