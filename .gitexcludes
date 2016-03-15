@@ -1,6 +1,3 @@
-.svn
 .gitmodules
-.settings
 .project
-.cproject
-QUASART-mpiBWA
+.gitexcludes
