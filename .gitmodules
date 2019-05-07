@@ -4,3 +4,6 @@
 [submodule "mpiSORT"]
 	path = mpiSORT
 	url = https://github.com/fredjarlier/mpiSORT.git
+[submodule "mpiMarkDup"]
+	path = mpiMarkDup
+	url = https://github.com/fredjarlier/mpiMarkDup
