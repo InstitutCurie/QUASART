@@ -1,9 +1,3 @@
-[submodule "mpiBWA"]
-	path = mpiBWA
-	url = https://github.com/fredjarlier/mpiBWA.git
-[submodule "mpiSORT"]
-	path = mpiSORT
-	url = https://github.com/fredjarlier/mpiSORT.git
 [submodule "mpiMarkDup"]
 	path = mpiMarkDup
 	url = https://github.com/fredjarlier/mpiMarkDup
