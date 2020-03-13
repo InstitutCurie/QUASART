@@ -1,6 +1,6 @@
-# QUick Algorithms for Sequencing data Analysis with massive Reads Toolbox
+# QUARTIC: QUick pArallel algoRithms  for high-Throughput sequencIng data proCessing}
 
-This toolbox consists of the following repositories:
+QUARTIC consists of the following repositories:
 
 ## stable releases
 
