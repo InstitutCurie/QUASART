@@ -1,4 +1,4 @@
-# QUARTIC: QUick pArallel algoRithms  for high-Throughput sequencIng data proCessing}
+# QUARTIC: QUick pArallel algoRithms  for high-Throughput sequencIng data proCessing
 
 QUARTIC consists of the following repositories:
 
